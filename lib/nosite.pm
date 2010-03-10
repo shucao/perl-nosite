@@ -5,6 +5,8 @@ use warnings;
 
 use Config;
 
+our $VERSION = '0.01';
+
 my $sitelib  = $Config{sitelib};
 my $sitearch = $Config{sitearch};
 
