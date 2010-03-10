@@ -30,7 +30,9 @@ nosite - @INC without sitelib and sitearch
 
 =head1 DESCRIPTION
 
-blah blah ...
+I use sitelib for testing new modules from CPAN, and corelib and
+vendorlib for work. This little module just meets my need. May it help
+you too :-)
 
 =head1 AUTHOR
 
