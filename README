@@ -1,0 +1,14 @@
+NAME
+    nosite - @INC without sitelib and sitearch
+
+SYNOPSIS
+        use nosite;
+
+        perl -Mnosite script
+
+DESCRIPTION
+    blah blah ...
+
+AUTHOR
+    Shu Cao
+
